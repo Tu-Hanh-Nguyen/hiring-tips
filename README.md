@@ -488,6 +488,8 @@ A final thought: I asked one of our mentors, who works at a $100B+ company in Si
 
 > For cold emails (and to a little extent the resume profiling as well), there is one key question I would like to answer: Am I speaking to an enthusiast who simply switched to the field because of the hype, or to someone who is genuinely passionate about the craft? For students and junior engineers, I would be interested in knowing their learning path, and if they went a little out of the way to accomplish something (eg: do a course, publish a paper, speak at a conference /meetup etc) — something as proof which can help me validate my guess as to that question.
 
+**Final pro tip:** If you're using [Streak](http://streak.com) (and you should be!) it can help a lot to send your email _on a delay_. Most busy people check their email in the morning, so if you set the delay to 9:00 am on a weekday, your email will land just as your target is checking their inbox.
+
 **Step 5: Send a _polite_ follow up**
 
 If you don't hear back from the person you've emailed within a week, you should send **one** polite follow up email. This should be sent as a reply to your first email, to ensure both show up in the same message thread.
