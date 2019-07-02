@@ -494,6 +494,8 @@ A final thought: I asked one of our mentors, who works at a $100B+ company in Si
 
 If you don't hear back from the person you've emailed within a week, you should send **one** polite follow up email. This should be sent as a reply to your first email, to ensure both show up in the same message thread.
 
+Remember the golden rule: **[always follow up!](https://guzey.com/follow-up/)
+
 Here's a template you can use for a follow up email:
 
 > Hi Ron,
