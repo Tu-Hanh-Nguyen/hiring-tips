@@ -79,6 +79,8 @@ And here's a list of things you can do to make your resume stronger, with a rati
 
 > 👉 **Also recommended:** [_The 4 fastest ways not to get hired as a data scientist_](https://towardsdatascience.com/the-4-fastest-ways-not-to-get-hired-as-a-data-scientist-565b42bd011e) by [Jeremie Harris](http://twitter.com/jeremiecharris). The four most deadly mistakes you can make on your resume.
 
+> 👉 **Also, also recommended:** [_Resume workshop_](https://drive.google.com/open?id=1UovH6Smtcb86hqH4k5s6Tl-Gzjed4gkN) by [Patrick Shyu](https://twitter.com/techleadhd). Patrick is an ex-Google team lead who has reviewed hundreds of engineering resumes and has some amazing tips on how to optimize yours.
+
 **How to do it:**
 
 (If you already have a resume, skip the first 2 steps.)
