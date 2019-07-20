@@ -132,6 +132,7 @@ And here's a list of ways of strengthening your LinkedIn profile. Some are solid
 - Include SharpestMinds in your experience, [using the same format as for your resume](#how-do-i-add-sharpestminds-to-my-resume) 🙌
 - If you've been promoted, list your original and promoted position as 2 job titles under one company heading 🙌
 - Write in short sentences, with one idea per sentence 🎉
+- [Get a custom LinkedIn URL](https://www.linkedin.com/help/linkedin/answer/87/customizing-your-public-profile-url?lang=en) so the link looks short and professional on your resume 🙌
 
 **How to do it:**
 
