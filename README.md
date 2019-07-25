@@ -367,6 +367,8 @@ The right way to apply online is **not** through job boards. The right way to ap
 
 **Bonus tip:** [Hunter.io](https://hunter.io) is a free website that lets you identify common email patterns at companies and find emails of people within organizations. It's similar to Snov.io, and you can and should use them both.
 
+**Bonus tip:** [Clearbit Connect](https://connect.clearbit.com) is another great extension that does the same thing. It seems to have a more comprehensive database than Snov.io, but we're waiting for confirmation on this before we recommend it as the primary tool.
+
 **Step 1: Make a list of companies that have jobs you like**
 
 1. Go on LinkedIn and search for "hiring data". Make sure to filter for `People`. You'll get a list of hits for people who are hiring data scientists, data engineers, and all kinds of other data roles. (You can search for "hiring machine learning" or "hiring X" to get similar results for roles in X.)
