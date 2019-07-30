@@ -385,6 +385,7 @@ The right way to apply online is **not** through job boards. The right way to ap
     - [The Comet ML newsletter](https://www.getrevue.co/profile/mljobs?utm_campaign=Issue&utm_content=forwarded&utm_medium=email&utm_source=ML+Jobs+Newsletter) (subscription link at the top of the page)
     - [Key Values](https://www.keyvalues.com)
     - [Work At A Startup](http://workatastartup.com) by YC
+    - [Monday](https://www.monday.vc/jobs) tells you how recently each job was posted
     - [Hacker News](https://news.ycombinator.com) puts up a "Who Is Hiring?" post every month where companies post open jobs. You can look up all the past Who Is Hiring posts [at this URL](https://news.ycombinator.com/submitted?id=whoishiring).
 
 
