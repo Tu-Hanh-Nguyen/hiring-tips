@@ -363,11 +363,11 @@ The right way to apply online is **not** through job boards. The right way to ap
 
 2. [Install Sapling.ai.](https://sapling.ai) Sapling is a free browser extension (Chrome only) that automatically proofreads your emails for you.
 
-3. [Install Snov.io.](https://snov.io) Snov is a freemium browser extension (Chrome only) that lets you find someone's email if you know 1) their name and 2) their company. You'll probably only need the free version.
+3. [Install Clearbit Connect.](https://connect.clearbit.com) Clearbit is a freemium browser extension (Chrome only) that lets you find someone's email if you know 1) their name and 2) their company. They have an excellent and up-to-date email database.
 
 **Bonus tip:** [Hunter.io](https://hunter.io) is a free website that lets you identify common email patterns at companies and find emails of people within organizations. It's similar to Snov.io, and you can and should use them both.
 
-**Bonus tip:** [Clearbit Connect](https://connect.clearbit.com) is another great extension that does the same thing. It seems to have a more comprehensive database than Snov.io, but we're waiting for confirmation on this before we recommend it as the primary tool.
+**Bonus tip:** [Snov.io](https://snov.io) is another great extension that does the same thing. One advantage of Snov.io is that you can create many different accounts if you run out of free credits on your primary one.
 
 **Step 1: Make a list of companies that have jobs you like**
 
